@@ -33,5 +33,7 @@ Publications
   
 Awards
 ======
-USTC Academic Scholarship, 2021.09, 2022.09, 2023.09
-USTC Excellent Student Prize, 2021.01
+
+- USTC Academic Scholarship, 2021.09, 2022.09, 2023.09
+
+- USTC Excellent Student Prize, 2021.01
