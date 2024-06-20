@@ -11,7 +11,7 @@ redirect_from:
 
 Hometown
 ======
-Pujiapo Village, Longxu Island Town, Rongcheng County, Weihai City, Shandong Province, China
+Weihai City, Shandong Province, China
 
 Education
 ======
