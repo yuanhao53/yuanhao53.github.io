@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "蒲元昊 Yuanhao Pu"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "蒲元昊"
 description              : &description "Ph.D. student of USTC"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "蒲元昊, Yuanhao Pu"
   pronouns         : "he/his"
-  bio              : "3rd year PhD student majoring Data Science"
+  bio              : "Data Science Ph.D student"
   location         : "Hefei City, Anhui Province, China"
   employer         : "School of AI&DS, USTC"
   uri              : # URL
