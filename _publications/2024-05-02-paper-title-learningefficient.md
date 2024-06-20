@@ -6,7 +6,7 @@ excerpt: 'The weighted squared loss is a common component in several Collaborati
  loss with Matrix Factorization (MF), coupled with a generalization upper bound and an ALS optimization algorithm that leverages closed-form solutions over all items. Experimental results over three public datasets demonstrate the effectiveness of the RG$^2$  loss, exhibiting ranking performance on par with, or even surpassing, the softmax loss while achieving faster convergence.'
 date: 2024-05-02
 venue: ICML2024, accepted
-paperurl: https://openreview.net/pdf?id=D5IRvFF1lN
+paperurl: [paper](https://openreview.net/pdf?id=D5IRvFF1lN), [code](https://github.com/yuanhao53/RG2)
 citation: 'Yuanhao Pu, Xiaolong Chen, Xu Huang, Jin Chen, Defu Lian*, Enhong Chen. Learning-Efficient Yet Generalizable Collaborative Filtering for Item Recommendation. The 41st International Conference on Machine Learning (ICML 2024), accepted, Vienna, Jul 2024..'
 ---
 
