@@ -14,8 +14,9 @@ His research interest mainly focus on **Machine Learning Theories** and its appl
 
 Updates
 ------
-Awaiting Update...
-
+- 2024.06.20: My homepage opens today!😊
+- 2024.05.02: Our work on designing a metric-consistent and generalizable squared-form loss has been accepted by ICML2024!✨😆
+- 2024.03.26: Our extension work on designing a automated and low-rank shallow autoencoder has been accepted by TORS!🌟😉
 Educations
 ------
 - 2021.9-till now: Ph.D., School of Artificial Intelligence & Data Science, University of Science and Technology of China (majoring in Data Science (Computer Science and Technology), transferred from M.Eng. of Computer Technology with a successive postgraduate-doctoral program in Sep. 2023)
