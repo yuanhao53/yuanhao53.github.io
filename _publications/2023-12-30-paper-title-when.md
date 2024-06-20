@@ -1,7 +1,7 @@
 ---
 title: "When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities."
 collection: publications
-permalink: /publication/2024-05-14-paper-title-when
+permalink: /publication/2023-12-30-paper-title-when
 excerpt: 'The advent of large language models marks a revolutionary breakthrough in artificial intelligence. With the unprecedented
 scale of training and model parameters, the capability of large language models has been dramatically improved, leading to human-like
 performances in understanding, language synthesizing, and common-sense reasoning, etc. Such a major leap-forward in general AI
@@ -18,7 +18,7 @@ unexplored. Therefore, we consider it to be right the time to review the challen
 them with large language models. In particular, we dedicate this perspective paper to the discussion of the following aspects: the
 development and challenges for the existing personalization system, the newly emerged capabilities of large language models, and the
 potential ways of making use of large language models for personalization.'
-date: 2024-05-14
+date: 2023-12-30
 venue: 'World Wide Web Journal (WWWJ)'
 citation: 'Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities. World Wide Web (WWWJ), accepted, 2024'
 ---
