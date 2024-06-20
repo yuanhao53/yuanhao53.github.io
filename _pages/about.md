@@ -12,15 +12,16 @@ redirect_from:
 
 His research interest mainly focus on **Machine Learning Theories** and its applications on **Recommender Systems**, especially for theoretical understandings which is beneficial for **Interpretability** and **Model Design**.
 
-Educational Experience
-======
+Updates
+------
+Awaiting Update...
+
+Educations
+------
 - 2021.9-till now: Ph.D., School of Artificial Intelligence & Data Science (transferred from M.Eng. of Computer Technology with a successive postgraduate-doctoral program in Sep. 2023)
   
 - 2017.9-2021.6: B.S., School of Mathematical Sciences, University of Science and Technology of China (majoring in Probablilty & Statistics)
 
-Updates
-======
-Awaiting Update...
 
 Publications
 ------
