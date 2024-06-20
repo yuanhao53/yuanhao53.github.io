@@ -14,10 +14,9 @@ His research interest mainly focus on **Machine Learning Theories** and its appl
 
 Educational Experience
 ======
-- 2017.9-2021.6: B.S., School of Mathematical Sciences, University of Science and Technology of China (majoring in Probablilty & Statistics)
-
 - 2021.9-till now: Ph.D., School of Artificial Intelligence & Data Science (transferred from M.S. of Computer Technology with a successive postgraduate-doctoral program in Sep. 2023)
-
+  
+- 2017.9-2021.6: B.S., School of Mathematical Sciences, University of Science and Technology of China (majoring in Probablilty & Statistics)
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
