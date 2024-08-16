@@ -15,6 +15,8 @@ His research interest mainly focus on **Machine Learning Theories** and its appl
 Recent Updates
 ------
 - Today: Today is a brand new day!😊
+- 2024.07.28: auf Wiedersehen, Wien!
+- 2024.07.20: I'm now in Vienna to attend ICML2024!
 - 2024.05.02: Our work on designing a metric-consistent and generalizable squared-form loss has been accepted by ICML2024!✨😆
 - 2024.03.26: Our extension work on designing an automated and low-rank shallow autoencoder has been accepted by TORS!🌟😉
 
