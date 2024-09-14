@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-**Pu Yuanhao** is currently a (3rd-year) full-time Ph.D. student in [School of Artificial Intelligence & Data Science](https://saids.ustc.edu.cn) (formerly named as School of Data Science), University of Science and Technology of China (USTC), under the supervison of [Prof.Defu Lian](https://faculty.ustc.edu.cn/liandefu). He got his B.S. degree from [School of Mathematical Sciences](https://math.ustc.edu.cn/), University of Science and Technology of China (USTC) in Jun. 2021.
+**Pu Yuanhao** is currently a (4th-year) full-time Ph.D. student in [School of Artificial Intelligence & Data Science](https://saids.ustc.edu.cn) (formerly named as School of Data Science), University of Science and Technology of China (USTC), under the supervison of [Prof.Defu Lian](https://faculty.ustc.edu.cn/liandefu). He got his B.S. degree from [School of Mathematical Sciences](https://math.ustc.edu.cn/), University of Science and Technology of China (USTC) in Jun. 2021.
 
 His research interest mainly focus on **Machine Learning Theories** and its applications on **Recommender Systems**, especially for theoretical understandings which provides guidance on **Model Design**.
 
