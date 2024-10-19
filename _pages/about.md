@@ -34,8 +34,10 @@ Publications
 
 2. **Yuanhao Pu**, Rui Fan, Jin Chen, Zhihao Zhu, Defu Lian\*, Enhong Chen. *Automated Sparse and Low-Rank Shallow Autoencoders for Recommendation.* ACM Transactions on Recommender Systems (**TORS**), accepted, 2024.
 
-3. Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, **Yuanhao Pu**, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. *When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities.* World Wide Web (**WWWJ**), accepted, 2024
+3. Ruimeng Li, **Yuanhao Pu**, Zhaoyi Li, Chenwang Wu, Hong Xie\*, Defu Lian. *Invariant Representation Learning via Decoupling Style and Spurious Features.* Machine Learning Journal (**MLJ**), accepted, 2024.
 
-4. Rui Fan, **Yuanhao Pu**, Jin Chen, Zhihao Zhu, Defu Lian\* and Enhong Chen. *AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation.*  The 32nd Web Conference (**WWW 2023**), pp. 1032-1042, Apr. 2023.
+4. Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, **Yuanhao Pu**, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. *When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities.* World Wide Web (**WWWJ**), accepted, 2024
 
-5. Ruimeng Li, **Yuanhao Pu**, Zhaoyi Li, Hong Xie\*, Defu Lian\*. *Invariant Representation Learning via Decoupling Style and Spurious Features.* arXiv preprint arXiv:2312.06226.
+5. Rui Fan+, **Yuanhao Pu**+, Jin Chen, Zhihao Zhu, Defu Lian\* and Enhong Chen. *AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation.*  The 32nd Web Conference (**WWW 2023**), pp. 1032-1042, Apr. 2023.
+
+6. Qi Liu, Xingyuan Tang, Jianqiang Huang, Xiangqian Yu, Haoran Jin, Jin Chen, **Yuanhao Pu**, Defu Lian, Tan Qu, Zhe Wang, Jia Cheng, Jun Lei. *Efficient Transfer Learning Framework for Cross-Domain Click-Through Rate Prediction.* arXiv preprint arXiv:2408.16238, 2024.
