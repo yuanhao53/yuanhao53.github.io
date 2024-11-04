@@ -20,7 +20,7 @@ development and challenges for the existing personalization system, the newly em
 potential ways of making use of large language models for personalization.'
 date: 2023-12-30
 venue: 'World Wide Web Journal (WWWJ)'
-citation: 'Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities. World Wide Web (WWWJ), accepted, 2024'
+citation: 'Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities. World Wide Web(WWWJ) 27, 42 (2024).'
 ---
 
 The advent of large language models marks a revolutionary breakthrough in artificial intelligence. With the unprecedented
