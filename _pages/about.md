@@ -25,6 +25,9 @@ Educations
   
 - 2017.9-2021.6: B.S., School of Mathematical Sciences, University of Science and Technology of China (majoring in Probablilty & Statistics)
 
+Public Services
+------
+- Reviewer: KDD2025
 
 Publications
 ------
