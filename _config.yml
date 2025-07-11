@@ -21,7 +21,7 @@ repository               : "yuanhao53/yuanhao53.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "蒲元昊, Yuanhao Pu"
   pronouns         : "he/his"
   bio              : "Data Science Ph.D student"
