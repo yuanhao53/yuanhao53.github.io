@@ -30,9 +30,9 @@ Educations
 
 Public Services
 ------
-- Reviewer:
--- 2025: KDD(Outstanding😉)
--- 2026: KDD, ICLR
+Reviewer:
+- 2025: KDD(Outstanding😉)
+- 2026: KDD, ICLR
 
 Publications
 ------
