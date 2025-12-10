@@ -30,13 +30,15 @@ Educations
 
 Public Services
 ------
-- Reviewer: KDD2025 (Outstanding😉), KDD2026
+- Reviewer:
+-- 2025: KDD(Outstanding😉)
+-- 2026: KDD, ICLR
 
 Publications
 ------
 **Yuanhao Pu**, Defu Lian\*, Xiaolong Chen, Xu Huang, Jin Chen, Enhong Chen. *NDCG-Consistent Softmax Approximation with Accelerated Convergence.* arXiv preprint arXiv:2506.09454, 2025.
 
-**Yuanhao Pu**, Defu Lian\*, Xiaolong Chen, Jin Chen, Ze Liu, Enhong Chen. *Understanding the Effect of Loss Functions on the Generalization of Recommendations.* Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2025**), accepted, 2025.
+**Yuanhao Pu**, Defu Lian\*, Xiaolong Chen, Jin Chen, Ze Liu, Enhong Chen. *Understanding the Effect of Loss Functions on the Generalization of Recommendations.* In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1.(**KDD 2025**), Association for Computing Machinery, New York, NY, USA, 1127–1137, 2025.
 
 **Yuanhao Pu**, Xiaolong Chen, Xu Huang, Jin Chen, Defu Lian\*, Enhong Chen. *Learning-Efficient Yet Generalizable Collaborative Filtering for Item Recommendation.* Proceedings of the 41st International Conference on Machine Learning(**ICML 2024**), PMLR 235:41183-41203, 2024. 
 
