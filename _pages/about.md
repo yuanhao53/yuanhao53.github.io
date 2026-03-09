@@ -15,6 +15,7 @@ His research interest mainly focus on **Machine Learning Theories** and its appl
 Recent Updates
 ------
 - Today: Today is a brand new day!😊
+- 2026.03.09: Several recent works have been released on arXiv: [Softmax-family](https://arxiv.org/abs/2601.22745),[FlashEvaluator](https://arxiv.org/pdf/2603.02565) and [SOLAR](https://arxiv.org/abs/2603.02561).🌟😉
 - 2025.07.06: One paper accepted by MM2025, congratulations to Mianzimei!🌟😉
 - 2025.06.11: Our extension work on designing ranking-consistent and generalizable objectives approximating Softmax Loss has been released on [arXiv](https://arxiv.org/abs/2506.09454)!🌟😉
 - 2025.01.27: One paper accepted by Machine Learning Journal, congratulations to Ruimeng!🌟😉
@@ -32,10 +33,16 @@ Public Services
 ------
 Reviewer:
 - 2025: KDD(Outstanding😉)
-- 2026: KDD, ICLR
+- 2026: KDD, ICLR, ICML
 
 Publications
 ------
+**Yuanhao Pu**, Defu Lian\*, Enhong Chen. *Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss* arXiv preprint arXiv:2601.22745, 2026.
+
+Chao Feng\*, **Yuanhao Pu**, Chenghao Zhang(The first three authors contributed equally), Shanqi Liu, Shuchang Liu, Xiang Li, Yongqi Liu, Lantao Hu, Kaiqiao Zhan, Han Li, Kun Gai. *FlashEvaluator: Expanding Search Space with Parallel Evaluation* arXiv preprint arXiv:2603.02565, 2026.
+
+Chenghao Zhang, Chao Feng\*, **Yuanhao Pu**(The first three authors contributed equally), Xunyong Yang, Wenhui Yu, Xiang Li, Yongqi Liu, Lantao Hu, Kaiqiao Zhan, Han Li, Kun Gai. *SOLAR: SVD-Optimized Lifelong Attention for Recommendation* arXiv preprint arXiv:2603.02561, 2026.
+
 **Yuanhao Pu**, Defu Lian\*, Xiaolong Chen, Xu Huang, Jin Chen, Enhong Chen. *NDCG-Consistent Softmax Approximation with Accelerated Convergence.* arXiv preprint arXiv:2506.09454, 2025.
 
 **Yuanhao Pu**, Defu Lian\*, Xiaolong Chen, Jin Chen, Ze Liu, Enhong Chen. *Understanding the Effect of Loss Functions on the Generalization of Recommendations.* In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1.(**KDD 2025**), Association for Computing Machinery, New York, NY, USA, 1127–1137, 2025.
