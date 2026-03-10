@@ -15,7 +15,7 @@ His research interest mainly focus on **Machine Learning Theories** and its appl
 Recent Updates
 ------
 - Today: Today is a brand new day!😊
-- 2026.03.09: Several recent works have been released on arXiv: [Softmax-family](https://arxiv.org/abs/2601.22745),[FlashEvaluator](https://arxiv.org/pdf/2603.02565) and [SOLAR](https://arxiv.org/abs/2603.02561).🌟😉
+- 2026.03.09: Several recent works have been released on arXiv: [Metric Transfer](https://arxiv.org/pdf/2603.07671), [Softmax-family](https://arxiv.org/abs/2601.22745), [FlashEvaluator](https://arxiv.org/pdf/2603.02565) and [SOLAR](https://arxiv.org/abs/2603.02561).🌟😉
 - 2025.07.06: One paper accepted by MM2025, congratulations to Mianzimei!🌟😉
 - 2025.06.11: Our extension work on designing ranking-consistent and generalizable objectives approximating Softmax Loss has been released on [arXiv](https://arxiv.org/abs/2506.09454)!🌟😉
 - 2025.01.27: One paper accepted by Machine Learning Journal, congratulations to Ruimeng!🌟😉
@@ -38,6 +38,8 @@ Reviewer:
 Publications
 ------
 \*: corresponding author, +：equal contribution
+
+**Yuanhao Pu**, Defu Lian\*, Enhong Chen. *Beyond Surrogates: A Quantitative Analysis for Inter-Metric Relationships* arXiv preprint arXiv:2603.07671, 2026
 
 **Yuanhao Pu**, Defu Lian\*, Enhong Chen. *Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss* arXiv preprint arXiv:2601.22745, 2026.
 
