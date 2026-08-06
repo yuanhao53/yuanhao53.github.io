@@ -14,7 +14,7 @@ His research interest mainly focus on **Machine Learning Theories** and its appl
 
 Recent Updates
 ------
-- 2026.07.30: Two recent works have been release on arXiv: [DIRECTOR](http://arxiv.org/abs/2607.26418) and [PSG](https://arxiv.org/abs/2607.26427).
+- 2026.07.30: Several recent works have been released on arXiv: [DIRECTOR](http://arxiv.org/abs/2607.26418), [PSG](https://arxiv.org/abs/2607.26427) and [CDPI](https://arxiv.org/pdf/2607.26608).
 - 2026.03.09: Several recent works have been released on arXiv: [Metric Transfer](https://arxiv.org/pdf/2603.07671), [Softmax-family](https://arxiv.org/abs/2601.22745), [FlashEvaluator](https://arxiv.org/pdf/2603.02565) and [SOLAR](https://arxiv.org/abs/2603.02561).
 - 2025.07.06: One paper accepted by MM2025, congratulations to Mianzimei.
 - 2025.06.11: Our extension work has been released on [arXiv](https://arxiv.org/abs/2506.09454).
@@ -68,3 +68,5 @@ Mianzimei Yang, Zhipeng Zhou, Jin Zhang, **Yuanhao Pu**, Hong Xie, Defu Lian. *C
 Qi Liu, Xingyuan Tang, Jianqiang Huang, Xiangqian Yu, Haoran Jin, Jin Chen, **Yuanhao Pu**, Defu Lian, Tan Qu, Zhe Wang, Jia Cheng, Jun Lei. *Efficient Transfer Learning Framework for Cross-Domain Click-Through Rate Prediction.* arXiv preprint arXiv:2408.16238, 2024.
 
 Chao Feng\*, Li Ma, Xiancheng Gao, Chenghao Zhang, **Yuanhao Pu**, Xiang Li. *PSG: Pair-Space Generation for Efficient Generative Reranking*  arXiv preprint arXiv:2607.26427, 2026.
+
+Yinghao Hou, Jiahe Fan, **Yuanhao Pu**, Zongyuan Chen, Hong Xie\*. *Understanding Knowledge Transfer Mechanism in Heterogeneous MLLM Fusion: A Simple Linear Approach* arXiv preprint arXiv:2607.26608, 2026.
