@@ -14,14 +14,15 @@ His research interest mainly focus on **Machine Learning Theories** and its appl
 
 Recent Updates
 ------
+- 2026.08.11: One paper accepted by CIKM2026.
 - 2026.07.30: Several recent works have been released on arXiv: [DIRECTOR](http://arxiv.org/abs/2607.26418), [PSG](https://arxiv.org/abs/2607.26427) and [CDPI](https://arxiv.org/pdf/2607.26608).
 - 2026.03.09: Several recent works have been released on arXiv: [Metric Transfer](https://arxiv.org/pdf/2603.07671), [Softmax-family](https://arxiv.org/abs/2601.22745), [FlashEvaluator](https://arxiv.org/pdf/2603.02565) and [SOLAR](https://arxiv.org/abs/2603.02561).
 - 2025.07.06: One paper accepted by MM2025, congratulations to Mianzimei.
 - 2025.06.11: Our extension work has been released on [arXiv](https://arxiv.org/abs/2506.09454).
 - 2025.01.27: One paper accepted by Machine Learning Journal, congratulations to Ruimeng.
-- 2024.11.17: Our work on understanding the H-consistency of the two-tower model hypothesis space has been accepted by KDD2025.
-- 2024.05.02: Our work on designing a metric-consistent and generalizable squared-form loss has been accepted by ICML2024.
-- 2024.03.26: Our extension work on designing an automated and low-rank shallow autoencoder has been accepted by TORS.
+- 2024.11.17: One paper accepted by KDD2025.
+- 2024.05.02: One paper accepted by ICML2024.
+- 2024.03.26: One paper accepted by ACM TORS.
 
 Educations
 ------
