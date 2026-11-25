@@ -14,6 +14,7 @@ His research interest mainly focus on **Machine Learning Theories** and its appl
 
 Recent Updates
 ------
+- 2026.11.14: Two papers accepted by KDD2027 ADS Track.
 - 2026.08.11: One paper accepted by CIKM2026.
 - 2026.07.30: Several recent works have been released on arXiv: [DIRECTOR](http://arxiv.org/abs/2607.26418), [PSG](https://arxiv.org/abs/2607.26427) and [CDPI](https://arxiv.org/pdf/2607.26608).
 - 2026.03.09: Several recent works have been released on arXiv: [Metric Transfer](https://arxiv.org/pdf/2603.07671), [Softmax-family](https://arxiv.org/abs/2601.22745), [FlashEvaluator](https://arxiv.org/pdf/2603.02565) and [SOLAR](https://arxiv.org/abs/2603.02561).
@@ -46,11 +47,11 @@ Publications
 
 **Yuanhao Pu**, Defu Lian\*, Enhong Chen. *Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss* arXiv preprint arXiv:2601.22745, 2026.
 
-Chao Feng\*\+, **Yuanhao Pu**\+, Chenghao Zhang\+, Shanqi Liu, Shuchang Liu, Xiang Li, Yongqi Liu, Lantao Hu, Kaiqiao Zhan, Han Li, Kun Gai. *FlashEvaluator: Expanding Search Space with Parallel Evaluation* arXiv preprint arXiv:2603.02565, 2026.
-
 Chenghao Zhang\+, Chao Feng\*\+, **Yuanhao Pu**\+, Xunyong Yang, Wenhui Yu, Xiang Li, Yongqi Liu, Lantao Hu, Kaiqiao Zhan, Han Li, Kun Gai. *SOLAR: SVD-Optimized Lifelong Attention for Recommendation* arXiv preprint arXiv:2603.02561, 2026.
 
 **Yuanhao Pu**, Defu Lian\*, Xiaolong Chen, Xu Huang, Jin Chen, Enhong Chen. *NDCG-Consistent Softmax Approximation with Accelerated Convergence.* arXiv preprint arXiv:2506.09454, 2025.
+
+**Yuanhao Pu**, Chenghao Zhang, Chao Feng, Xunyong Yang, Xiang Li, Yongqi Liu, Defu Lian, Kaiqiao Zhan, Kun Gai. *SWIM: Step-Wise Integrated Measure for Session-supervised List Evaluation in Generative Re-ranking.* In Proceedings of the 35th ACM International Conference on Information and Knowledge Management (**CIKM 2026**), Association for Computing Machinery, Rome, Italy, 3987-3998, 2026.
 
 **Yuanhao Pu**, Defu Lian\*, Xiaolong Chen, Jin Chen, Ze Liu, Enhong Chen. *Understanding the Effect of Loss Functions on the Generalization of Recommendations.* In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1.(**KDD 2025**), Association for Computing Machinery, New York, NY, USA, 1127–1137, 2025.
 
@@ -60,6 +61,10 @@ Chenghao Zhang\+, Chao Feng\*\+, **Yuanhao Pu**\+, Xunyong Yang, Wenhui Yu, Xian
 
 Rui Fan\+, **Yuanhao Pu**\+, Jin Chen, Zhihao Zhu, Defu Lian\* and Enhong Chen. *AutoS2AE: Automate to Regularize Sparse Shallow Autoencoders for Recommendation.*  The 32nd Web Conference (**WWW 2023**), pp. 1032-1042, Apr. 2023.
 
+Chao Feng\*\+, **Yuanhao Pu**\+, Chenghao Zhang\+, Shanqi Liu, Shuchang Liu, Xiang Li, Yongqi Liu, Lantao Hu, Kaiqiao Zhan, Han Li, Kun Gai. *FlashEvaluator: Expanding Search Space with Parallel Evaluation* KDD 2027 Applied Data Science Track, accepted, 2027.
+
+Chao Feng, Li Ma, Xiancheng Gao, Chenghao Zhang, **Yuanhao Pu**, Xiang Li. *PSG: Pair-Space Generation for Efficient Generative Reranking* KDD 2027 Applied Data Science Track, accepted, 2027.
+
 Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, **Yuanhao Pu**, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. *When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities.* World Wide Web (**WWWJ**) Vol.27, No.42, 2024.
 
 Ruimeng Li, **Yuanhao Pu**, Zhaoyi Li, Chenwang Wu, Hong Xie\*, Defu Lian. *Invariant Representation Learning via Decoupling Style and Spurious Features.* Machine Learning Journal (**MLJ**), Volume 114, No.37, 2025.
@@ -67,7 +72,5 @@ Ruimeng Li, **Yuanhao Pu**, Zhaoyi Li, Chenwang Wu, Hong Xie\*, Defu Lian. *Inva
 Mianzimei Yang, Zhipeng Zhou, Jin Zhang, **Yuanhao Pu**, Hong Xie, Defu Lian. *Conflict-Buffering Optimization by Symmetry Teleportation for Deep Long-Tailed Recognition.* The 33rd ACM International Conference on Multimedia (**ACM MM 2025**), accepted.
    
 Qi Liu, Xingyuan Tang, Jianqiang Huang, Xiangqian Yu, Haoran Jin, Jin Chen, **Yuanhao Pu**, Defu Lian, Tan Qu, Zhe Wang, Jia Cheng, Jun Lei. *Efficient Transfer Learning Framework for Cross-Domain Click-Through Rate Prediction.* arXiv preprint arXiv:2408.16238, 2024.
-
-Chao Feng\*, Li Ma, Xiancheng Gao, Chenghao Zhang, **Yuanhao Pu**, Xiang Li. *PSG: Pair-Space Generation for Efficient Generative Reranking*  arXiv preprint arXiv:2607.26427, 2026.
 
 Yinghao Hou, Jiahe Fan, **Yuanhao Pu**, Zongyuan Chen, Hong Xie\*. *Understanding Knowledge Transfer Mechanism in Heterogeneous MLLM Fusion: A Simple Linear Approach* arXiv preprint arXiv:2607.26608, 2026.
